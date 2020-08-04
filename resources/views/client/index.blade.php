@@ -9,7 +9,7 @@
 <div class="container">
 	<div class="row">
 		{{-- <div class="col-sm-12 col-md-6">
-			<h4>Estado Reproductores</h4>
+			<h4>Estado Reproductores Modificacion</h4>
 			<div id="chart_div" style="width:650; height:500"></div>
 		</div> --}}
 
